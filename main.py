@@ -21,3 +21,128 @@ ile_mniej =  pozostala_kwota - pozostala_kwota1
 pozostala_kwota = pozostala_kwota1
 print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
 
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
+
+stopa = float(input())
+pozostala_kwota1 = (1 + ((stopa + oprocentowanie ) / 1200 )) * pozostala_kwota - rata
+ile_mniej =  pozostala_kwota - pozostala_kwota1
+pozostala_kwota = pozostala_kwota1
+print("Twoja pozostała kwota kredytu to {}, to {} mniej niż w poprzednim miesiącu.".format(pozostala_kwota1, ile_mniej))
